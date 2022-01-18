@@ -1,7 +1,7 @@
 # Kodluyoruz Ilk Repo
 Bu repo Kodluyoruz Git Eğitiminde oluşturduğum ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
-![Image](https://github.com/Kodluyoruz/taskforce/blob/main/git/odev1/figures/github.png)
+![Image](https://github.com/dogankocadayilar/kodluyoruzilkrepo/blob/main/img/img.png)
 
 ## Installation
 Öncelikle projeyi clonelayın.
